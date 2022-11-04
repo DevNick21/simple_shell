@@ -1,4 +1,4 @@
-.TH "SIMPLE SHELL" "1" "NOVEMBER 2018" "SIMPLE SHELL" "Simple Shell User Manual"
+.TH "SIMPLE SHELL" "4" "NOVEMBER 2022" "SIMPLE SHELL" "Simple Shell User Manual"
 .SH NAME
 .B hsh
 - simple shell
@@ -72,7 +72,7 @@ The program returns 0 for success.
 Memory leaks and exit does not work
 
 .SH AUTHOR
-Michael Klein and Wendy Leung
+Iheanacho Nicholas and Ifeoma Adinchezor
 
 .SH "SEE ALSO"
 .BR sh (1),
